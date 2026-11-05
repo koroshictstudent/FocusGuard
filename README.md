@@ -42,9 +42,14 @@ The APK will be available in the Releases section after publication.
 
 Test the recovery and uninstall procedure before relying on the restrictions.
 
-## 🎬 Video Guides
+## 🎬 Product Overview Videos
 
-English and Persian videos will be linked here when published.
+Watch a short introduction to FocusGuard and its features:
+
+- 🇬🇧 [Watch in English](https://youtu.be/YE-6vYUMaIc)
+- 🇮🇷 [تماشای معرفی فارسی](https://youtu.be/Dq4q9gyr-t4)
+
+These videos introduce the app's features; they are not installation tutorials.
 
 ## 🔒 Security and Verification
 
