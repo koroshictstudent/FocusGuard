@@ -1,36 +1,71 @@
 # FocusGuard 📱
 
-**A free Android app for better digital self-control.**
+**Free Android app for managing smartphone use and supporting digital self-control.**
 
-FocusGuard is designed to help users manage their smartphone usage through scheduled restrictions and protected settings.
+**Current Version:** 0.9.0  
+**Developer:** KoroshSF  
+**Requirements:** Android 8.0 or later
 
-## Features
-- Scheduled usage restrictions
-- Password-protected settings
-- Customizable weekly holidays and exceptions
-- Support for different weekly schedules
+FocusGuard helps users manage smartphone usage through scheduled restrictions, daily limits, password-protected settings, and customizable exceptions.
 
-## Download
-The Android APK will be available in the [Releases](https://github.com/koroshictstudent/FocusGuard/releases) section.
+## ✨ Features
 
-## Important Information
-FocusGuard uses sensitive Android permissions to provide its restriction features. Please review permission requests carefully and test the app's settings and removal process before relying on it.
+- Scheduled sleep-time restrictions for selected apps
+- Daily app usage limits and usage warnings
+- Separate restrictions during work hours
+- Password-protected settings and recovery options
+- Custom weekly holidays and exceptions
+- Multilingual user interface
+- Built-in Help and instructions
 
-## Security
-[View the VirusTotal analysis](https://www.virustotal.com/gui/file/dbe47fe7638f505e38bcd6f13e62753e235cc7536b457e6dff53e75af86282d4)
+## 🆕 What's New in v0.9.0?
 
-Antivirus results are provided for transparency and do not guarantee that software is completely free of security risks.
+- Improved screen layout around Android system bars
+- Apps with existing restrictions now appear first
+- New Help screen with detailed explanations
+- Interface and localization improvements
 
-## Developer
-**KoroshSF**
+## 📥 Download
+
+**[Download FocusGuard for Android](https://github.com/koroshictstudent/FocusGuard/releases)**
+
+The APK will be available in the Releases section after publication.
+
+## 📖 Installation
+
+1. Download the APK from the official GitHub Releases page.
+2. Follow Android's installation prompts.
+3. Open FocusGuard and review the requested permissions.
+4. Configure your restrictions and recovery options.
+
+**Important:** FocusGuard uses sensitive Android permissions, including Accessibility and device administration, for certain restriction features. Review these permissions carefully.
+
+Test the recovery and uninstall procedure before relying on the restrictions.
+
+## 🎬 Video Guides
+
+English and Persian videos will be linked here when published.
+
+## 🔒 Security and Verification
+
+**SHA-256 — FocusGuard v0.9.0**
+
+`a280dea19c2d7dcbc19bf54d7e21a96df0dd5c633079a488e4b1b7a7fc291f6c`
+
+[View the VirusTotal Security Report](https://www.virustotal.com/gui/file/a280dea19c2d7dcbc19bf54d7e21a96df0dd5c633079a488e4b1b7a7fc291f6c)
+
+Antivirus results are provided for transparency and do not guarantee complete security.
 
 ## ❤️ Support Development
 
-FocusGuard and SleepGuard are free to use.
+FocusGuard and SleepGuard are completely free to use.
 
-If you find them helpful, you can support future
-development with a voluntary cryptocurrency donation.
+If you find them helpful, you can support their future development with a voluntary cryptocurrency donation.
 
-[❤️ Donate to KoroshSF](./DONATE.md)
+**[❤️ Donate to KoroshSF](./DONATE.md)**
 
+## 👨‍💻 Developer
 
+**KoroshSF**
+
+Also check out [SleepGuard for Windows](https://github.com/koroshictstudent/SleepGuard).
