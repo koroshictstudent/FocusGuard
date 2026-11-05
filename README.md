@@ -27,9 +27,11 @@ FocusGuard helps users manage smartphone usage through scheduled restrictions, d
 
 ## 📥 Download
 
-**[Download FocusGuard for Android](https://github.com/koroshictstudent/FocusGuard/releases)**
+**[Download FocusGuard v0.9.0 for Android](https://github.com/koroshictstudent/FocusGuard/releases/download/v0.9.0/FocusGuard-v0.9.0-KoroshSF.apk)**
 
-The APK will be available in the Releases section after publication.
+[View all releases](https://github.com/koroshictstudent/FocusGuard/releases)
+
+Free to download and use.
 
 ## 📖 Installation
 
