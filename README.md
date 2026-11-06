@@ -3,7 +3,7 @@
 **Free Android app for managing smartphone use and supporting digital self-control.**
 
 **Current Version:** 0.9.0  
-**Developer:** KoroshSF  
+**Developer:** KoroshICTStudent  
 **Requirements:** Android 8.0 or later
 
 FocusGuard helps users manage smartphone usage through scheduled restrictions, daily limits, password-protected settings, and customizable exceptions.
@@ -27,7 +27,7 @@ FocusGuard helps users manage smartphone usage through scheduled restrictions, d
 
 ## 📥 Download
 
-**[Download FocusGuard v0.9.0 for Android](https://github.com/koroshictstudent/FocusGuard/releases/download/v0.9.0/FocusGuard-v0.9.0-KoroshSF.apk)**
+**[Download FocusGuard v0.9.0 for Android](https://github.com/koroshictstudent/FocusGuard/releases/download/v0.9.0/FocusGuard-v0.9.0-KoroshICTStudent.apk)**
 
 [View all releases](https://github.com/koroshictstudent/FocusGuard/releases)
 
@@ -69,10 +69,10 @@ FocusGuard and SleepGuard are completely free to use.
 
 If you find them helpful, you can support their future development with a voluntary cryptocurrency donation.
 
-**[❤️ Donate to KoroshSF](./DONATE.md)**
+**[❤️ Donate to KoroshICTStudent](./DONATE.md)**
 
 ## 👨‍💻 Developer
 
-**KoroshSF**
+**KoroshICTStudent**
 
 Also check out [SleepGuard for Windows](https://github.com/koroshictstudent/SleepGuard).
